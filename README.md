@@ -8,11 +8,5 @@ Kolmogorov–Arnold Networks (KANs) are a novel architecture inspired by the Kol
 
 The goal is to evaluate the performance of Laguerre-based KANs on standard vision tasks like CIFAR-10 classification.
 
-## 📁 File
-
-- `kans-for-vision.ipynb`: Contains the full implementation, including:
-  - Network architecture with Laguerre basis
-  - CIFAR-10 data loading and preprocessing
-  - Training and evaluation loop
 
 
